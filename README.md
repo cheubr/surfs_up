@@ -6,8 +6,8 @@
 
 # Results: 
     1. The difference of temperatures in Hawaii from June compared to December is surprisingly similar. 
-        June Temps ![alt text](https://github.com/[cheubr]/[surfs_up]/Resources/[branch]/image.jpg?raw=true)
-
+        June Temps ![alt text](https://github.com/[cheubr]/[surfs_up]/Resources/JuneTemps.png?raw=true)
+        December Temps ![alt text](https://github.com/[cheubr]/[surfs_up]/Resources/DecTemps.png?raw=true)
     2. 
 
 
